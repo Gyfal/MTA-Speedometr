@@ -1,0 +1,10 @@
+<meta>
+  <info name="JS Speedometr" type="script" version="1.0.0" author="Sambrero" />
+  <oop>true</oop>
+  <script src="client.lua" type="client" cache="false"/>
+  <script src="shared.lua" type="shared" cache="false"/>
+  <file src="speedometr.html" />
+  <file src="script.js" />
+  <file src="fonts/MuseoSans_900-webfont.ttf" />
+
+</meta>
