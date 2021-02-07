@@ -1,10 +1,7 @@
 local demobrowser;
 local speedInstance;
 local refresh = 100; -- refresh 100 ms; Smaller - smoother
-local web = {
-  browser;
 
-}
 
 local clock = getTickCount()
 
